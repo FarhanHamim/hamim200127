@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Farhan Zaman Ha-mim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying at Independent University,Bangladesh
+- 🏫 Department- Computer Science and Engineering
 - 📫 Reach me at https://www.facebook.com/farhanzaman.hamim/
 
 <!---
